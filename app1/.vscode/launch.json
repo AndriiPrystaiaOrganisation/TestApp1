@@ -4,12 +4,12 @@
                            {
                                "type":  "al",
                                "request":  "launch",
-                               "name":  "Local Sandbox (bcautocreated)",
-                               "server":  "http://bcautocreated",
+                               "name":  "Local Sandbox (bcondocker)",
+                               "server":  "http://bcondocker",
                                "serverInstance":  "BC",
                                "port":  7049,
                                "tenant":  "default",
-                               "authentication":  "Windows"
+                               "authentication":  "UserPassword"
                            }
                        ]
 }
